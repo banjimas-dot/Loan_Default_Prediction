@@ -159,9 +159,9 @@ Possible improvements (not implemented yet):
 
 ## 👤 Author
 
-**Alfred Goma**  
+**Alfred Goma & BM**  
 Loan Default Prediction Project  
-2024–2025  
+2026
 
 ---
 
